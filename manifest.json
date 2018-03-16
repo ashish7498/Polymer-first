@@ -1,0 +1,6 @@
+{
+  "name": "my-new-project",
+  "short_name": "my-new-project",
+  "start_url": "/",
+  "display": "standalone"
+}
